@@ -18,8 +18,7 @@ I am currently completing the second year of my PhD in the School of Informatics
     *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
 2016
-:   **BA, Mathematics**; University of
-    Edinburgh 
+:   **BA, Mathematics**; Trinity College Dublin
 
     *First Class Honours*
     *Thesis: Bayesian Inference for Stochastic Volatility Models*
