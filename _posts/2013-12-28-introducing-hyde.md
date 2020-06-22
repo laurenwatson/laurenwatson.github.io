@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 ### About
 
 I am currently completing the second year of my PhD in the School of Informatics at the University of Edinburgh and am a member of the Laboratory for Foundations of Computer Science (LFCS). My current focus is on private machine learning, particularly Differential Privacy. 
