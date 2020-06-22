@@ -17,13 +17,15 @@ I am currently a second year PhD candidate in the School of Informatics at the U
 :   **MSc, Artificial Intelligence**; School of Informatics, University of
     Edinburgh 
 
-    *Awarded with Distinction*\
+    *Awarded with Distinction*
+    
     *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
 2016
 :   **BA, Mathematics**; Trinity College Dublin
 
-    *First Class Honours*\
+    *First Class Honours*
+    
     *Thesis Title: Bayesian Inference for Stochastic Volatility Models*
 
 ### Publications
