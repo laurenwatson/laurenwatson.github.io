@@ -1,37 +1,29 @@
----
-layout: post
-title: Introducing Hyde
----
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+### About
 
-### Built on Poole
+I am currently completing the second year of my PhD in the School of Informatics at the University of Edinburgh and am a member of the Laboratory for Foundations of Computer Science (LFCS). My current focus is on private machine learning, particularly Differential Privacy. 
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+### Education
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+2021 (expected)
+:   **PhD, Computer Science**; Laboratory for Foundations of Computer Science, University of Edinburgh
 
-### Hyde features
+    *Thesis subject: Privacy Preserving Machine Learning*
 
-In addition to the features of Poole, Hyde adds the following:
+2018
+:   **MSc, Artificial Intelligence**; University of
+    Edinburgh 
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+    *Awarded with Distinction*
+    *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+2016
+:   **BA, Mathematics**; University of
+    Edinburgh 
 
-### Browser support
+    *First Class Honours*
+    *Thesis: Bayesian Inference for Stochastic Volatility Models*
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+### Publications
 
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+### Teaching Support
