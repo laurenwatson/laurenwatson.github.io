@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 
+title: About
 
 ---
-### About
+### Currently
 
-I am currently completing the second year of my PhD in the School of Informatics at the University of Edinburgh and am a member of the Laboratory for Foundations of Computer Science (LFCS). My current focus is on private machine learning, particularly Differential Privacy. 
+I am currently completing the second year of my PhD in the School of Informatics at the University of Edinburgh and am a member of the Laboratory for Foundations of Computer Science (LFCS). My main subject area is private machine learning, particularly Differential Privacy. 
 
 ### Education
 
@@ -18,13 +18,13 @@ I am currently completing the second year of my PhD in the School of Informatics
 :   **MSc, Artificial Intelligence**; School of Informatics, University of
     Edinburgh 
 
-    *Awarded with Distinction*;
+    *Awarded with Distinction*\
     *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
 2016
 :   **BA, Mathematics**; Trinity College Dublin
 
-    *First Class Honours*;
+    *First Class Honours*\
     *Thesis Title: Bayesian Inference for Stochastic Volatility Models*
 
 ### Publications
