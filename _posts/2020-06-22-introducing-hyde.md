@@ -4,7 +4,7 @@ title: About
 
 ---
 
-I am currently a second year of PhD candidate in the School of Informatics at the University of Edinburgh and am a member of the Laboratory for Foundations of Computer Science (LFCS). My main subject area is private machine learning, particularly Differential Privacy. 
+I am currently a second year PhD candidate in the School of Informatics at the University of Edinburgh and a member of the Laboratory for Foundations of Computer Science (LFCS). My core area of study is private machine learning, particularly Differential Privacy. 
 
 ### Education
 
