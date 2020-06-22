@@ -15,17 +15,17 @@ I am currently completing the second year of my PhD in the School of Informatics
     *Thesis subject: Privacy Preserving Machine Learning*
 
 2018
-:   **MSc, Artificial Intelligence**; University of
+:   **MSc, Artificial Intelligence**; School of Informatics, University of
     Edinburgh 
 
-    *Awarded with Distinction*
+    *Awarded with Distinction*;
     *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
 2016
 :   **BA, Mathematics**; Trinity College Dublin
 
-    *First Class Honours*
-    *Thesis: Bayesian Inference for Stochastic Volatility Models*
+    *First Class Honours*;
+    *Thesis Title: Bayesian Inference for Stochastic Volatility Models*
 
 ### Publications
 
