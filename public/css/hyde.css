@@ -88,6 +88,12 @@ html {
   justify-content:center;
 }
 
+img {
+display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
