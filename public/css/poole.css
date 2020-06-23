@@ -103,6 +103,13 @@ h4, h5, h6 {
   font-size: 1rem;
 }
 
+hr {
+  clear:both;
+  display:block;
+  width: 96%;
+  background-color:#FFFF00;
+  height: 1px;
+}
 /* Body text */
 p {
   margin-top: 0;
@@ -339,10 +346,16 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  /* border-bottom: 3px solid black */
 }
 .page-title,
 .post-title {
   margin-top: 0;
+
+}
+
+.page-title {
+  border-bottom: 3px solid black;
 }
 
 /* Meta data line below post title */
