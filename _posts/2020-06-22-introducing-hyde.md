@@ -43,3 +43,11 @@ L. Watson, B. Rozemberczki and R. Sarkar *Stability Enhanced Privacy and  Applic
 **Social and Technological Networks**, Autumn 2019 (Teaching Assistant)
 
 **INF2 - Introduction to Algorithms and Data Structures**, Spring 2020 (Marker)
+
+***
+### Contact
+***
+
+Email: lauren.watson [at] ed.ac.uk
+
+Office: IF-5.19, Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB
