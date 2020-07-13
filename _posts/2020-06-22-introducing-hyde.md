@@ -33,7 +33,7 @@ I am also interested in a range of theoretical and applied topics within machine
 ***
 
 #### Papers
-L. Watson, A. Mediratta, T. Elahi, and R. Sarkar *Privacy Preserving Detection of Path Bias Attacks in Tor*, Proceedings on Privacy Enhancing Technology (PETs), 2020. [[PDF]]({{ site.url }}/assets/Final_Private_Detection_for_Tor.pdf)
+L. Watson, A. Mediratta, T. Elahi, and R. Sarkar *Privacy Preserving Detection of Path Bias Attacks in Tor*, Proceedings on Privacy Enhancing Technologies (PETs), 2020. [[PDF]]({{ site.url }}/assets/Final_Private_Detection_for_Tor.pdf)
 
 #### Preprints
 L. Watson, B. Rozemberczki and R. Sarkar *Stability Enhanced Privacy and  Applications in Private Stochastic Gradient Descent*, 2020.  [[PDF]](https://arxiv.org/abs/2006.14360)
