@@ -1,10 +1,13 @@
 ---
 layout: post
 title: About
+driveId: 1J_e9M5SGG1Z-trDITCAsPuWo_Vp4cCvx/preview
 
 ---
 
-I am currently a second year PhD candidate in the School of Informatics at the University of Edinburgh and a member of the Laboratory for Foundations of Computer Science (LFCS). My core area of study is private machine learning, particularly Differential Privacy.
+I am currently a second year PhD student in the School of Informatics at the University of Edinburgh and a member of the Laboratory for Foundations of Computer Science (LFCS). My core area of study is private machine learning, particularly Differential Privacy.
+
+I am also interested in a range of theoretical and applied topics within machine learning, including submodular optimization, algorithmic stability, sequence-to-sequence prediction tasks and regularization.
 
 ***
 ### Education
@@ -18,6 +21,9 @@ I am currently a second year PhD candidate in the School of Informatics at the U
 :   **MSc Artificial Intelligence**: University of Edinburgh (*Awarded with Distinction*)     
     *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
 
+- IBM Shortlist for best Machine Learning Practical project
+- Dissertation listed as one of the 'Outstanding Project Submissions 2017-18'
+
 2016
 :   **BA Mathematics**: Trinity College Dublin (*First Class Honours*)  
     *Thesis Title: Bayesian Inference for Stochastic Volatility Models*
@@ -27,10 +33,10 @@ I am currently a second year PhD candidate in the School of Informatics at the U
 ***
 
 #### Papers
-L. Watson, A. Mediratta, T. Elahi, and R. Sarkar *Privacy Preserving Detection of Path Bias Attacks in Tor*, Proceedings on Privacy Enhancing Technology (PETs), 2020.
+L. Watson, A. Mediratta, T. Elahi, and R. Sarkar *Privacy Preserving Detection of Path Bias Attacks in Tor*, Proceedings on Privacy Enhancing Technology (PETs), 2020. [[PDF]]({{ site.url }}/assets/Final_Private_Detection_for_Tor.pdf)
 
 #### Preprints
-L. Watson, B. Rozemberczki and R. Sarkar *Stability Enhanced Privacy and  Applications in Private Stochastic Gradient Descent*, 2020.
+L. Watson, B. Rozemberczki and R. Sarkar *Stability Enhanced Privacy and  Applications in Private Stochastic Gradient Descent*, 2020.  [[PDF]](https://arxiv.org/abs/2006.14360)
 
 ***
 ### Teaching Support
