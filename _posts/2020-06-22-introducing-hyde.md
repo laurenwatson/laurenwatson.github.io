@@ -5,7 +5,7 @@ driveId: 1J_e9M5SGG1Z-trDITCAsPuWo_Vp4cCvx/preview
 
 ---
 
-I am currently a second year PhD student in the School of Informatics at the University of Edinburgh and a member of the Laboratory for Foundations of Computer Science (LFCS). My core area of study is private machine learning, particularly Differential Privacy.
+I am currently a third year PhD student in the School of Informatics at the University of Edinburgh and a member of the Laboratory for Foundations of Computer Science (LFCS). My core area of study is private machine learning, particularly Differential Privacy.
 
 I am also interested in a range of theoretical and applied topics within machine learning, including submodular optimization, algorithmic stability, sequence-to-sequence prediction tasks and regularization.
 
