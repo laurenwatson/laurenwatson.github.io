@@ -42,13 +42,16 @@ L. Watson, B. Rozemberczki and R. Sarkar *Stability Enhanced Privacy and  Applic
 ### Teaching Support
 ***
 
-**Accelerated Natural Language Processing**, Autumn 2018 & 2019 (Tutor, Lab Demonstrator, Marker)
+**Accelerated Natural Language Processing**, Autumn 2018, 2019 & 2020 (Tutor, Lab Demonstrator and/or Marker)
 
 **Natural Language Understanding, Generation and Machine Translation**, Spring 2019 & 2020 (Lab Demonstrator, Marker)
 
 **Social and Technological Networks**, Autumn 2019 (Teaching Assistant)
 
 **INF2 - Introduction to Algorithms and Data Structures**, Spring 2020 (Marker)
+
+**Data-driven Business and Behaviour Analytics**, Autumn 2020 (Teaching Assistant)
+
 
 ***
 ### Contact
