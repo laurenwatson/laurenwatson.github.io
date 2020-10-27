@@ -8,7 +8,7 @@ relative_permalinks: false
 
 # Setup
 title:            Lauren Watson
-tagline:          'Phd Candidate - Privacy Preserving Machine Learning'
+tagline:          'PhD Candidate - Privacy Preserving Machine Learning'
 description:      'University of Edinburgh'
 url:              laurenwatson.github.io
 baseurl:          /
