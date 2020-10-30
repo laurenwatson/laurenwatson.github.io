@@ -14,7 +14,8 @@ I am also interested in a range of theoretical and applied topics within machine
 ***
 ### Blog Posts
 
-<div class="inner"><a href="/blogposts/2020-10-25-dp/">An Introduction to Differential Privacy</a></div>
+<p><div class="inner"><a href="/blogposts/2020-10-25-dp/">An Introduction to Differential Privacy</a></div></p>
+<p><div class="inner"><a href="/blogposts/2020-10-29-anon/">Your Database isn't Anonymous</a></div></p>
 
 ***
 ### Education
