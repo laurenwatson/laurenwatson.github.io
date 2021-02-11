@@ -18,7 +18,7 @@ My research goal is to contribute to the integrity of machine learning, both in 
 
 <p><div class="inner"><a href="/blogposts/2020-10-25-dp/">An Introduction to Differential Privacy</a></div></p>
 <p><div class="inner"><a href="/blogposts/2020-10-29-anon/">Your Database isn't Anonymous</a></div></p>
-
+<!-- <p><div class="inner"><a href="/blogposts/2021-01-19-amp/">Tricks to Increase Your Algorithm's Privacy</a></div></p> -->
 ***
 ### Education
 
@@ -28,7 +28,7 @@ My research goal is to contribute to the integrity of machine learning, both in 
 
 2018
 :   **MSc Artificial Intelligence**: University of Edinburgh (*Awarded with Distinction*)     
-    *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology*
+    *Thesis Title:  What is Multi-Task Learning actually learning? An investigation into the effects of Multi-Task Learning for Sequence-to-Sequence Neural Models of Morphology* [[PDF]]({{ site.url }}/assets/lauren_dissertation_final.pdf)
 
 - IBM Shortlist for best Machine Learning Practical project
 - Dissertation listed as one of the 'Outstanding Project Submissions 2017-18'
